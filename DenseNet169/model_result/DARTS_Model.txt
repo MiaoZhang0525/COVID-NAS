@@ -1,0 +1,230 @@
+
+Train set: Average loss: 0.0032, Accuracy: 302/424 (71%)
+
+
+ The epoch is 0, average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.5172, average AUC: 0.8307
+Train set: Average loss: 0.0011, Accuracy: 347/424 (82%)
+
+
+Train set: Average loss: 0.0004, Accuracy: 369/424 (87%)
+
+
+Train set: Average loss: 0.0004, Accuracy: 388/424 (92%)
+
+
+Train set: Average loss: 0.0003, Accuracy: 400/424 (94%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 391/424 (92%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 393/424 (93%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 400/424 (94%)
+
+
+Train set: Average loss: 0.0007, Accuracy: 397/424 (94%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 395/424 (93%)
+
+
+Train set: Average loss: 0.0049, Accuracy: 403/424 (95%)
+
+
+ The epoch is 10, average recall: 0.7321, average precision: 0.8039,average F1: 0.7664, average accuracy: 0.7845, average AUC: 0.8940
+Train set: Average loss: 0.0002, Accuracy: 396/424 (93%)
+
+
+Train set: Average loss: 0.0003, Accuracy: 401/424 (95%)
+
+
+Train set: Average loss: 0.0025, Accuracy: 400/424 (94%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 410/424 (97%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 404/424 (95%)
+
+
+Train set: Average loss: 0.0046, Accuracy: 397/424 (94%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 402/424 (95%)
+
+
+Train set: Average loss: 0.0007, Accuracy: 385/424 (91%)
+
+
+Train set: Average loss: 0.0063, Accuracy: 400/424 (94%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 410/424 (97%)
+
+
+ The epoch is 20, average recall: 0.7321, average precision: 0.8367,average F1: 0.7810, average accuracy: 0.8017, average AUC: 0.9068
+Train set: Average loss: 0.0004, Accuracy: 407/424 (96%)
+
+
+Train set: Average loss: 0.0002, Accuracy: 412/424 (97%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 412/424 (97%)
+
+
+Train set: Average loss: 0.0036, Accuracy: 408/424 (96%)
+
+
+Train set: Average loss: 0.0002, Accuracy: 418/424 (99%)
+
+
+Train set: Average loss: 0.0007, Accuracy: 412/424 (97%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 414/424 (98%)
+
+
+Train set: Average loss: 0.0021, Accuracy: 419/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 421/424 (99%)
+
+
+Train set: Average loss: 0.0013, Accuracy: 416/424 (98%)
+
+
+ The epoch is 30, average recall: 0.8036, average precision: 0.8654,average F1: 0.8333, average accuracy: 0.8448, average AUC: 0.9098
+Train set: Average loss: 0.0047, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0002, Accuracy: 414/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0001, Accuracy: 413/424 (97%)
+
+
+Train set: Average loss: 0.0028, Accuracy: 419/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0041, Accuracy: 408/424 (96%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 414/424 (98%)
+
+
+Train set: Average loss: 0.0038, Accuracy: 392/424 (92%)
+
+
+Train set: Average loss: 0.0026, Accuracy: 413/424 (97%)
+
+
+ The epoch is 40, average recall: 0.8214, average precision: 0.8846,average F1: 0.8519, average accuracy: 0.8621, average AUC: 0.9155
+Train set: Average loss: 0.0003, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 416/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 413/424 (97%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 412/424 (97%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 407/424 (96%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 413/424 (97%)
+
+
+Train set: Average loss: 0.0004, Accuracy: 421/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 418/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 410/424 (97%)
+
+
+Train set: Average loss: 0.0007, Accuracy: 417/424 (98%)
+
+
+ The epoch is 50, average recall: 0.7857, average precision: 0.7857,average F1: 0.7857, average accuracy: 0.7931, average AUC: 0.8807
+Train set: Average loss: 0.0000, Accuracy: 415/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0002, Accuracy: 419/424 (99%)
+
+
+Train set: Average loss: 0.0002, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 418/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 418/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 416/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 421/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 413/424 (97%)
+
+
+Train set: Average loss: 0.0142, Accuracy: 417/424 (98%)
+
+
+ The epoch is 60, average recall: 0.7500, average precision: 0.8235,average F1: 0.7850, average accuracy: 0.8017, average AUC: 0.8836
+Train set: Average loss: 0.0002, Accuracy: 412/424 (97%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 413/424 (97%)
+
+
+Train set: Average loss: 0.0003, Accuracy: 418/424 (99%)
+
+
+Train set: Average loss: 0.0003, Accuracy: 417/424 (98%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 422/424 (100%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 423/424 (100%)
+
+
+Train set: Average loss: 0.0003, Accuracy: 421/424 (99%)
+
+
+Train set: Average loss: 0.0056, Accuracy: 423/424 (100%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 421/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 422/424 (100%)
+
+
+ The epoch is 70, average recall: 0.7500, average precision: 0.7636,average F1: 0.7568, average accuracy: 0.7672, average AUC: 0.8613
+Train set: Average loss: 0.0000, Accuracy: 420/424 (99%)
+
+
+Train set: Average loss: 0.0000, Accuracy: 424/424 (100%)
+
+
+Train set: Average loss: 0.0018, Accuracy: 422/424 (100%)
+
